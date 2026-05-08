@@ -54,7 +54,7 @@ Estudante e desenvolvedor em formação, com foco em me tornar um desenvolvedor 
 
 ## 🔗 Acesse o Projeto
 
-Adicione aqui o link do seu site publicado:
+Adicione aqui o link do seu site publicado: https://superb-twilight-1f7351.netlify.app/
 
 ```bash
 https://seu-link-aqui.com
